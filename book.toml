@@ -4,5 +4,3 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Joseph's-Portfolio"
-[output.html]
-numbered_chapters = false
